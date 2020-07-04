@@ -1,6 +1,8 @@
 # Word Finder
 Word Finder is a simple HTML5 game in which a player tries to score as many points as possible by forming words within a 2-minute time limit.
 
+[Play it here!](julia-kim.github.io/word-finder/)
+
 Word lists were downloaded from [Word Game Dictionary](https://www.wordgamedictionary.com/word-lists/).
 
 ## Motivation
